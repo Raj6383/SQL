@@ -1,0 +1,13 @@
+Player_Id,Player_Name,Runs,Popularity,Player_Id,Player_Name,Runs,Charisma
+PL1,Virat,50,10,PL1,Virat,50,55
+PL2,Rohit,41,7,PL2,Rohit,41,30
+PL3,Jadeja,33,6,PL3,Jadeja,33,24
+PL4,Dhoni,35,15,PL4,Dhoni,35,59
+PL6,Yadav,66,10,PL6,Yadav,66,35
+PL8,Binny,44,11,PL8,Binny,44,32
+PL9,Rayudu,63,12,PL9,Rayudu,63,39
+PL5,Dhawan,45,12,NULL,NULL,NULL,NULL
+PL7,Raina,32,9,NULL,NULL,NULL,NULL
+PL10,rahane,21,10,NULL,NULL,NULL,NULL
+PL11,"A. Patel",12,9,NULL,NULL,NULL,NULL
+PL12,"B. Kumar",30,7,NULL,NULL,NULL,NULL
