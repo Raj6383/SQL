@@ -7,7 +7,6 @@ Pie-in-the-Sky, is a mobile app that is used for bidding for IPL matches legally
 The app shows the match details which includes the playing team, the venue of the match and current standing of the teams on the points table. It will display the winner at the end of the match and update the team standings in the tournament and bidder points table. System will send updates to the bidders whenever required. It will also generate the bidders' leader board
 
 
-
 # SQL 2
 
 SQL II - Mini Project
@@ -38,4 +37,4 @@ month, we see when the next visit is.
 # 3: Calculate the time gaps between visits
 # 4: categorise the customer with time gap 1 as retained, >1 as irregular and
 NULL as churned
-# 5: calculate the retention month wise
+# 5: calculate the retention month wise.
